@@ -1,16 +1,30 @@
-### Hi there 👋
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  
+:heart: Programming | :muscle: Archery | :horse: Horse Riding
+  
+I am a High Schooler. I love Kotlin for Android and I check out new Kotlin-first Android libraries in my free time.
 
-<!--
-**Andre-max/Andre-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Sky Weather using Android and Kotlin.
+- 🌱 I’m currently learning Testing on Android.
+- 👯 I’m looking to collaborate on Android Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: There is always time. You just have to find it.
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Andre-max) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/TheOnlyOneCode) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Andre-max) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/andrew-chelimo-63ba441b6/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](andrewchelimo2000@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> How about some stats ?
+  
+.    
+   
+![Andrew Chelimo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-max&hide=["stars"]&show_icons=true)
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Kotlin      90 hrs 32 mins       ████████   100.0
+```
