@@ -2,7 +2,7 @@
   
 :heart: Programming | :muscle: Archery | :horse: Horse Riding
   
-I am a High Schooler. I love Kotlin for Android and I check out new Kotlin-first Android libraries in my free time.
+I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-first Android libraries in my free time.
 
 - 🔭 I’m currently working on Sky Weather using Android and Kotlin.
 - 🌱 I’m currently learning Testing on Android.
