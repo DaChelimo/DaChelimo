@@ -4,8 +4,8 @@
   
 I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-first Android libraries in my free time.
 
-- 🔭 I’m currently working on Sky Weather using Android and Kotlin.
-- 🌱 I’m currently learning Testing on Android.
+- 🔭 I’m currently working on a highly featured messaging app using Android and Kotlin.
+- 🌱 I’m currently learning Jetpack Compose.
 - 👯 I’m looking to collaborate on Android Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
