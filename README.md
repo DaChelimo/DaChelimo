@@ -19,12 +19,10 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
   
 .    
    
-![Andrew Chelimo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-max&hide=["stars"]&show_icons=true)
+![Andrew Chelimo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-max&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 
 -------
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-Kotlin      90 hrs 32 mins       ████████   100.0
-```
+<!--END_SECTION:waka-->
