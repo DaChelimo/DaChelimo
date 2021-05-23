@@ -26,8 +26,6 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Kotlin       4 hrs 7 mins    █████████████████████▓░░░   87.21 % 
-XML          29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Java         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
