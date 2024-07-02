@@ -1,11 +1,11 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Programming | :muscle: Archery | :horse: Horse Riding
+💕 Programming | 💪 Archery | 🐴 Horse Riding | 🎹 Piano
   
 I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-first Android libraries in my free time.
 
-- 🔭 I’m currently working on a highly featured messaging app using Android and Kotlin.
-- 🌱 I’m currently learning Jetpack Compose.
+- 🔭 I’m currently working on a highly featured messaging app using Jetpack Compose.
+- 🌱 I’m currently learning Kotlin Multiplatform.
 - 👯 I’m looking to collaborate on Android Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
@@ -16,9 +16,6 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> How about some stats ?
-  
-.    
-   
 ![Andrew Chelimo GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaChelimo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 
 -------
