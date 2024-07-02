@@ -11,7 +11,7 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Andre-max) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/TheOnlyOneCode) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Andre-max) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/andrew-chelimo-63ba441b6/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](andrewchelimo2000@gmail.com)
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/DaChelimo) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/DaChelimo) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/DaChelimo) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/andrew-chelimo-63ba441b6/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](andrewchelimo2000@gmail.com)
 
 ----
 
@@ -19,7 +19,7 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
   
 .    
    
-![Andrew Chelimo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre-max&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+![Andrew Chelimo GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaChelimo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 
 -------
 
