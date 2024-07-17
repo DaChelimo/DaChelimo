@@ -24,11 +24,8 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 4 hrs 33 mins   █████████████████████▓░░░   87.09 %
-Java                   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-TOML                   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Gradle                 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Groovy                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Kotlin   1 hr 49 mins    █████████████████████████   99.68 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
