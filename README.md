@@ -24,11 +24,11 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            16 hrs 30 mins  ████████████████████████▒   96.88 %
-Java              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-TOML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-XML               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Kotlin            13 hrs 4 mins   ████████████████████████▒   97.55 %
+Java              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+TOML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
