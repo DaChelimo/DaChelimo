@@ -24,7 +24,7 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin   31 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
