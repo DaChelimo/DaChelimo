@@ -24,9 +24,7 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 <!--START_SECTION:waka-->
 
 ```txt
-Dart          2 hrs 30 mins   ████████████████████▒░░░░   81.34 %
-YAML          33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-Image (svg)   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
