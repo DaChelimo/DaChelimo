@@ -24,9 +24,9 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          1 hr 53 mins    ████████████████▓░░░░░░░░   66.47 %
-HTML         44 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
-JavaScript   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+CSS          1 hr 18 mins    ███████████████████▓░░░░░   78.04 %
+HTML         16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+JavaScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:waka-->
