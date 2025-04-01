@@ -24,8 +24,7 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    6 mins          ███████████████████████░░   92.64 %
-HTML   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
