@@ -24,11 +24,7 @@ I am an Android Developer. I love Kotlin for Android and I check out new Kotlin-
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            1 hr 20 mins    ████████████████████░░░░░   80.40 %
-TOML              17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-GitIgnore file    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
