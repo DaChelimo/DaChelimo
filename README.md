@@ -43,27 +43,3 @@ CSS          0 secs          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/DaChelimo) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/DaChelimo) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/DaChelimo) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/da-chelimo/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](andrewchelimo2000@gmail.com)
-
-<!--
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> How about some stats ?
-![Andrew Chelimo GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaChelimo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-
--------
-
-📊 **Weekly development breakdown** 
-
--->
-<!--START_SECTION:waka-->
-
-<!--
-```txt
-JavaScript   2 mins          ████████████████████████▓   98.63 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-```
-
--->
-
-<!--END_SECTION:waka-->
