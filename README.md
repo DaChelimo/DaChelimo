@@ -38,9 +38,7 @@ I specialize in **Android development**, building high-performance, user-centere
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         25 mins         ███████████████████████░░   91.73 %
-JavaScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+HTML   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
