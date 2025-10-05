@@ -18,21 +18,26 @@ I specialize in **Android development**, building high-performance, user-centere
 ## 🛠 Android Projects
 
 ### Whisper – Real-Time Chat App
-💬 Real-time messaging with edit & unsend, media sharing, and stories.  
-⚡ Optimized media caching (-35% load time) & memory usage (-20%).  
-🎨 UI inspired by Instagram + WhatsApp for smooth, intuitive navigation.  
+💬 An offline-first, real-time messaging application built on a modern, scalable architecture. <br>
+⚡ Features: Media (audio, camera, and video) sharing, Stories, Send, Edit & Unsend message functionality <br>
+💻 Tech stack used: Firebase Auth, Storage & FireStore, Koin DI <br>
+🎨 UI inspired by Instagram + WhatsApp for smooth, intuitive navigation.  <br>
+
 
 ### Sky Weather – Weather Forecast App
-📲 1000+ downloads on Google Play, 5.0⭐ rating.  
-⏱ Reduced app load time by 40%, dynamic caching for offline access.  
-🎨 Refactored UI from XML to Compose, cut bugs by 60%, seamless theme switching.  
+💬 A modern weather application with over 1,000 downloads and a 5.0-star rating on the Google Play Store. <br>
+⚡ Features: Current, hourly, and daily forecasts; 3 different theme modes (Light, Dark, and Black), Location detection <br>
+💻 Tech stack used: Room, Retrofit, Google Maps SDK, DataStore, Hilt DI, WorkManager <br>
+🎨 Recently completed a UI migration from XML to Jetpack Compose, which reduced UI-related bugs by 60% and improved feature development speed. <br>
+🍳 Optimized startup performance by 40% by implementing a dynamic caching strategy with Room and efficient RESTful API calls using Retrofit. <br>
 
 ### Trecipe – Recipe App (Kotlin Multiplatform)
-🍴 Cross-platform recipe app with smooth scrolling and intuitive search.  
-⚡ Optimized network calls and image loading for fast performance.  
-🎨 Clean, user-first UI built entirely in Compose.  
+💬 A cross-platform recipe discovery app targeting Android and iOS from a single codebase. <br>
+🌍 Built with Kotlin Multiplatform and Compose Multiplatform to share business logic and UI, demonstrating expertise in modern cross-platform development. <br>
+🎨 Optimized network and image loading performance to deliver a fluid, highly responsive user experience with smooth scrolling and fast search capabilities. <br>
+💻 Tech stack used: Room for offline caching, Koin DI   <br>
 
-<br>
+
 
 ## 📈 Weekly development breakdown
 <!--START_SECTION:waka-->
