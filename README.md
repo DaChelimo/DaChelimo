@@ -43,10 +43,10 @@ I specialize in **Android development**, building high-performance, user-centere
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   1 hr 17 mins    ███████████████████████░░   92.43 %
-XML      6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin         1 hr 4 mins     ███████████████▒░░░░░░░░░   61.09 %
+TOML           39 mins         █████████▒░░░░░░░░░░░░░░░   37.72 %
+XML            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
