@@ -36,17 +36,3 @@ I specialize in **Android development**, building high-performance, user-centere
 🌍 Built with Kotlin Multiplatform and Compose Multiplatform to share business logic and UI, demonstrating expertise in modern cross-platform development. <br>
 🎨 Optimized network and image loading performance to deliver a fluid, highly responsive user experience with smooth scrolling and fast search capabilities. <br>
 💻 Tech stack used: Room for offline caching, Koin DI   <br>
-
-
-
-## 📈 Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   11 mins         ███████████████▓░░░░░░░░░   62.36 %
-JSON         6 mins          █████████░░░░░░░░░░░░░░░░   35.88 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
-<!--END_SECTION:waka-->
