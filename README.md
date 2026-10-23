@@ -1,11 +1,11 @@
 # Hi, I'm Andrew Chelimo
 
-**BSE in Artificial Intelligence @ UPenn | Android and Kotlin Multiplatform Developer | Android Developer @ Penn Labs**
+**BSE in Artificial Intelligence @ UPenn | Android Developer @ Penn Labs**
 
 [LinkedIn](https://linkedin.com/in/da-chelimo) | [Portfolio](https://da-chelimo.netlify.app) | chelimo@engineering.upenn.edu
 
 ## About Me
-I build Android and Kotlin Multiplatform apps and care about the details that users feel: startup time, memory, crash rates, offline behavior, and clean architecture that lets a team keep shipping. I have been writing Kotlin for 5 years, and today I work on Penn Mobile (4,000+ monthly active users) as part of Penn Labs, where I own notifications and home-screen widgets. I also pair that with AI engineering, from vector-search recommendation pipelines to LLM routing and eval harnesses.
+I build **Android** and **Kotlin Multiplatform apps** and care about the details that users feel: startup time, memory, crash rates, offline behavior, and clean architecture that lets a team keep shipping. I have been writing Kotlin for 5 years, and today I work on Penn Mobile (4,000+ monthly active users) as part of Penn Labs, where I own notifications and home-screen widgets. I also pair that with AI engineering, from vector-search recommendation pipelines to LLM routing and eval harnesses.
 
 Outside of code: cycling, volunteering, table tennis, and nature walks.
 
