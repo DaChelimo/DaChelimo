@@ -1,38 +1,75 @@
-# Hi, I'm Andrew Chelimo 👋
+# Hi, I'm Andrew Chelimo
 
-**BSE in AI & MSE in Robotics @ UPenn  | Android Developer | Kotlin & Jetpack Compose Enthusiast**
-<br>
-<br>
+**BSE in Artificial Intelligence @ UPenn | Android and Kotlin Multiplatform Developer | Android Developer @ Penn Labs**
 
+[LinkedIn](https://linkedin.com/in/da-chelimo) | [Portfolio](https://da-chelimo.netlify.app) | chelimo@engineering.upenn.edu
 
-## 🚀 About Me
-I specialize in **Android development**, building high-performance, user-centered apps with Kotlin and Jetpack Compose. I love optimizing app speed, memory, and UI/UX while creating features that delight users. Outside development, I enjoy cycling 🚴, volunteering 👨‍🏫, table tennis 🏓, and nature walks 🌿.
-
-
-## 💻 Android Skills
-**Languages:** Kotlin, Java, Python  
-**Frameworks & Tools:** Jetpack Compose, Compose Multiplatform, Firebase, Retrofit, Room, Glide, Koin  
-**Certifications:** TripleByte Certified Android Engineer, SoloLearn HTML/CSS  
 <br>
 
-## 🛠 Android Projects
+## About Me
+I build Android and Kotlin Multiplatform apps and care about the details that users feel: startup time, memory, crash rates, offline behavior, and clean architecture that lets a team keep shipping. I have been writing Kotlin for 5 years, and today I work on Penn Mobile (4,000+ monthly active users) as part of Penn Labs, where I own notifications and home-screen widgets. I also pair that with AI engineering, from vector-search recommendation pipelines to LLM routing and eval harnesses.
 
-### Whisper – Real-Time Chat App
-💬 An offline-first, real-time messaging application built on a modern, scalable architecture. <br>
-⚡ Features: Media (audio, camera, and video) sharing, Stories, Send, Edit & Unsend message functionality <br>
-💻 Tech stack used: Firebase Auth, Storage & FireStore, Koin DI <br>
-🎨 UI inspired by Instagram + WhatsApp for smooth, intuitive navigation.  <br>
+Outside of code: cycling, volunteering, table tennis, and nature walks.
 
+<br>
 
-### Sky Weather – Weather Forecast App
-💬 A modern weather application with over 1,000 downloads and a 5.0-star rating on the Google Play Store. <br>
-⚡ Features: Current, hourly, and daily forecasts; 3 different theme modes (Light, Dark, and Black), Location detection <br>
-💻 Tech stack used: Room, Retrofit, Google Maps SDK, DataStore, Hilt DI, WorkManager <br>
-🎨 Recently completed a UI migration from XML to Jetpack Compose, which reduced UI-related bugs by 60% and improved feature development speed. <br>
-🍳 Optimized startup performance by 40% by implementing a dynamic caching strategy with Room and efficient RESTful API calls using Retrofit. <br>
+## Skills
+**Languages:** Kotlin, Java, Swift, Python, SQL, C, JavaScript <br>
+**Android and KMP:** Jetpack Compose, Compose Multiplatform, Kotlin Multiplatform, MVVM and Clean Architecture, Coroutines and Flow, Hilt, Koin, Room, Retrofit, JUnit <br>
+**Backend and Cloud:** FastAPI, Ktor, PostgreSQL, Supabase (Auth, Edge Functions), AWS (RDS, S3), Firebase (Auth, Crashlytics, FCM) <br>
+**AI Engineering:** Claude API, RAG, CLIP embeddings, pgvector, multi-model routing and eval harnesses, agentic dev workflows (Claude Code, Codex) <br>
+**Certifications:** TripleByte Certified Android Engineer <br>
 
-### Trecipe – Recipe App (Kotlin Multiplatform)
-💬 A cross-platform recipe discovery app targeting Android and iOS from a single codebase. <br>
-🌍 Built with Kotlin Multiplatform and Compose Multiplatform to share business logic and UI, demonstrating expertise in modern cross-platform development. <br>
-🎨 Optimized network and image loading performance to deliver a fluid, highly responsive user experience with smooth scrolling and fast search capabilities. <br>
-💻 Tech stack used: Room for offline caching, Koin DI   <br>
+<br>
+
+## Featured Projects
+
+### TikTok Clone - Video Recommendation Engine
+**86+ GitHub stars | Open source**
+
+A short-video app with a content-based recommendation pipeline, built end to end: a Kotlin Android client backed by a Python service that ranks videos by visual similarity.
+
+- **Features:** Vertical video feed, personalized recommendations driven by what a user watches
+- **How it works:** Video frames are embedded with CLIP, stored in PostgreSQL with pgvector, and searched with an HNSW index for fast nearest-neighbor retrieval
+- **Tech stack:** Kotlin, Jetpack Compose, Python, FastAPI, CLIP, PostgreSQL, pgvector (HNSW)
+- **Why it matters:** Shows I can own a feature across the stack, from the ML retrieval layer to a smooth Android client.
+
+<br>
+
+### Evenly - Group Expense Tracker (Kotlin Multiplatform)
+**Android and iOS from one codebase | Paid tier via RevenueCat**
+
+A bill-splitting app built with Kotlin Multiplatform and Compose Multiplatform, so business logic and UI are shared across both platforms.
+
+- **Features:** Receipt scanning with AI parsing, bilateral settlement, per-expense settlement, offline use with automatic sync
+- **Impact:** Cut AI receipt-parsing cost by 40% with no accuracy loss by benchmarking models on real receipts and routing requests between Claude Haiku and Sonnet
+- **Architecture:** Offline-first design on Room and PostgreSQL with a background sync engine, field-level conflict resolution, and crash-resilient WorkManager uploads
+- **Tech stack:** Kotlin Multiplatform, Compose Multiplatform, Room, PostgreSQL, WorkManager, RevenueCat, Claude API
+
+<br>
+
+### Penn Mobile - Production App at Penn Labs
+**4,000+ monthly active users | Kotlin Android**
+
+The official app for Penn students, built and maintained by Penn Labs. I have been on the Android team since September 2025 and own notifications and home-screen widgets.
+
+- **Stability:** Cut app crashes by 30% by tracing a lifecycle crash in Firebase Crashlytics (150+ users affected) and decoupling network calls from the UI
+- **Performance:** Reduced a screen's freeze time by 89% (1.76s to 189ms) and memory use by 72 MB by profiling in Android Studio and decoding downsized images asynchronously with Coil
+- **Migration:** Led the incremental XML-to-Jetpack Compose migration of 5 screens without freezing feature work
+- **Architecture and quality:** Refactored two monolithic Fragments into Clean Architecture with MVVM, UDF, and Hilt; raised test coverage on two core features from 0% to 80% with JUnit
+- **Team:** Onboarded 2 new Android developers to their first merged PRs through weekly check-ins and code reviews
+- **Tech stack:** Kotlin, Jetpack Compose, Hilt, Coroutines and Flow, Coil, Firebase Crashlytics, JUnit
+
+<br>
+
+## More Projects
+
+- **Whisper:** Offline-first real-time chat app with media sharing, Stories, and edit/unsend messages (Firebase, Koin)
+- **Sky Weather:** Weather app with 1,000+ downloads and a 5.0 rating on Google Play (Room, Retrofit, Hilt, WorkManager)
+- **Trecipe:** Recipe discovery app on Google Play with offline caching and infinite-scroll search (Kotlin, Room)
+- **SHIFT:** Web, iOS, and Android staffing platform for 105 Penn Housing front-desk workers, with a Claude-powered RAG support agent, pitched to Penn Housing leadership for a pilot
+
+<br>
+
+## Get in Touch
+I am looking for Android and mobile engineering internships. Reach me on [LinkedIn](https://linkedin.com/in/da-chelimo) or at chelimo@engineering.upenn.edu.
