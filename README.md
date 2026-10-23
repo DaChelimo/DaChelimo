@@ -25,46 +25,28 @@ Outside of code: cycling, volunteering, table tennis, and nature walks.
 ## Featured Projects
 
 ### TikTok Clone - Video Recommendation Engine
-**86+ GitHub stars | Open source**
-
 A short-video app with a content-based recommendation pipeline, built end to end: a Kotlin Android client backed by a Python service that ranks videos by visual similarity.
 
 - **Features:** Vertical video feed, personalized recommendations driven by what a user watches
 - **How it works:** Video frames are embedded with CLIP, stored in PostgreSQL with pgvector, and searched with an HNSW index for fast nearest-neighbor retrieval
 - **Tech stack:** Kotlin, Jetpack Compose, Python, FastAPI, CLIP, PostgreSQL, pgvector (HNSW)
-- **Why it matters:** Shows I can own a feature across the stack, from the ML retrieval layer to a smooth Android client.
-
-<br>
-
-### Evenly - Group Expense Tracker (Kotlin Multiplatform)
-**Android and iOS from one codebase | Paid tier via RevenueCat**
-
-A bill-splitting app built with Kotlin Multiplatform and Compose Multiplatform, so business logic and UI are shared across both platforms.
-
-- **Features:** Receipt scanning with AI parsing, bilateral settlement, per-expense settlement, offline use with automatic sync
-- **Impact:** Cut AI receipt-parsing cost by 40% with no accuracy loss by benchmarking models on real receipts and routing requests between Claude Haiku and Sonnet
-- **Architecture:** Offline-first design on Room and PostgreSQL with a background sync engine, field-level conflict resolution, and crash-resilient WorkManager uploads
-- **Tech stack:** Kotlin Multiplatform, Compose Multiplatform, Room, PostgreSQL, WorkManager, RevenueCat, Claude API
 
 <br>
 
 ### Penn Mobile - Production App at Penn Labs
-**4,000+ monthly active users | Kotlin Android**
-
 The official app for Penn students, built and maintained by Penn Labs. I have been on the Android team since September 2025 and own notifications and home-screen widgets.
 
 - **Stability:** Cut app crashes by 30% by tracing a lifecycle crash in Firebase Crashlytics (150+ users affected) and decoupling network calls from the UI
 - **Performance:** Reduced a screen's freeze time by 89% (1.76s to 189ms) and memory use by 72 MB by profiling in Android Studio and decoding downsized images asynchronously with Coil
 - **Migration:** Led the incremental XML-to-Jetpack Compose migration of 5 screens without freezing feature work
 - **Architecture and quality:** Refactored two monolithic Fragments into Clean Architecture with MVVM, UDF, and Hilt; raised test coverage on two core features from 0% to 80% with JUnit
-- **Team:** Onboarded 2 new Android developers to their first merged PRs through weekly check-ins and code reviews
-- **Tech stack:** Kotlin, Jetpack Compose, Hilt, Coroutines and Flow, Coil, Firebase Crashlytics, JUnit
 
 <br>
 
 ## More Projects
 
 - **Whisper:** Offline-first real-time chat app with media sharing, Stories, and edit/unsend messages (Firebase, Koin)
+- **Evenly:** Bill-splitting app built with Kotlin Multiplatform and Compose Multiplatform
 - **Sky Weather:** Weather app with 1,000+ downloads and a 5.0 rating on Google Play (Room, Retrofit, Hilt, WorkManager)
 - **Trecipe:** Recipe discovery app on Google Play with offline caching and infinite-scroll search (Kotlin, Room)
 - **SHIFT:** Web, iOS, and Android staffing platform for 105 Penn Housing front-desk workers, with a Claude-powered RAG support agent, pitched to Penn Housing leadership for a pilot
